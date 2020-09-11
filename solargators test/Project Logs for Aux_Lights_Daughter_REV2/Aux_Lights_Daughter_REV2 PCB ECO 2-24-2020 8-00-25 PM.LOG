@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=5V Pin=VR1-1
+Removed Pin From Net: NetName=NetIC2_1 Pin=VR1-2
+Removed Pin From Net: NetName=GND Pin=VR1-3
+Removed Member From Class: ClassName=Aux_Lights_Daughter_REV2 Member=VR1
+Added Component: Designator=VR?(P160KN0QC17B10K)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/P160KN-0QC17B10K.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "BI Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P160KN-0QC17B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "858-P160KN-OQC17B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=858-P160KN-OQC17B10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=VR?-1
+Added Pin To Net: NetName=NetIC2_1 Pin=VR?-2
+Added Pin To Net: NetName=GND Pin=VR?-3
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component VR? P160KN-0QC17B10K
+Added Room: Name=Aux_Lights_Daughter_REV2

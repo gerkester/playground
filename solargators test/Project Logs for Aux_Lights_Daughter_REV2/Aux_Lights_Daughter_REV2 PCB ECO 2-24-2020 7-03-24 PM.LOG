@@ -1,0 +1,199 @@
+Added Component: Designator=*1(9-Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*2(9-Pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(Hole 125mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(Hole 125mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(Hole 125mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(Hole 125mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC1(QFP50P1200X1200X160-64N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/STM32F072RBT6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F072RBT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32F072RBT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STM32F072RBT6"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOT95P280X145-5N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm397.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM397MF/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM397MF/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LM397MF%2FNOPB"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR2X10_CEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(13N06L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(13N06L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q3(13N06L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q4(13N06L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q5(13N06L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q6(13N06L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=U1(CANIC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/tcan1042hgv.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(POT inline wide)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/P160KN-0QC17B10K.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "BI Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P160KN-0QC17B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "858-P160KN-OQC17B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=858-P160KN-OQC17B10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=*2-5
+Added Pin To Net: NetName=3V3 Pin=IC1-13
+Added Pin To Net: NetName=3V3 Pin=IC1-19
+Added Pin To Net: NetName=3V3 Pin=IC1-32
+Added Pin To Net: NetName=3V3 Pin=IC1-48
+Added Pin To Net: NetName=3V3 Pin=IC1-64
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=3V3 Pin=P1-11
+Added Pin To Net: NetName=3V3 Pin=U1-8
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=*2-4
+Added Pin To Net: NetName=5V Pin=IC2-5
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=5V Pin=U1-5
+Added Pin To Net: NetName=5V Pin=VR1-1
+Added Net: Name=5V
+Added Pin To Net: NetName=Brake- Pin=*1-5
+Added Pin To Net: NetName=Brake- Pin=Q5-D
+Added Net: Name=Brake-
+Added Pin To Net: NetName=Brake_In Pin=*2-1
+Added Pin To Net: NetName=Brake_In Pin=IC2-3
+Added Net: Name=Brake_In
+Added Pin To Net: NetName=Brake_Out Pin=*2-2
+Added Pin To Net: NetName=Brake_Out Pin=IC2-4
+Added Pin To Net: NetName=Brake_Out Pin=Q5-G
+Added Pin To Net: NetName=Brake_Out Pin=R1-2
+Added Net: Name=Brake_Out
+Added Pin To Net: NetName=CANH Pin=*2-8
+Added Pin To Net: NetName=CANH Pin=U1-4
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=*2-9
+Added Pin To Net: NetName=CANL Pin=U1-6
+Added Net: Name=CANL
+Added Pin To Net: NetName=GND Pin=*2-7
+Added Pin To Net: NetName=GND Pin=IC1-12
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Pin To Net: NetName=GND Pin=IC1-31
+Added Pin To Net: NetName=GND Pin=IC1-47
+Added Pin To Net: NetName=GND Pin=IC1-60
+Added Pin To Net: NetName=GND Pin=IC1-63
+Added Pin To Net: NetName=GND Pin=IC2-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P1-9
+Added Pin To Net: NetName=GND Pin=P1-10
+Added Pin To Net: NetName=GND Pin=P1-12
+Added Pin To Net: NetName=GND Pin=P1-13
+Added Pin To Net: NetName=GND Pin=P1-14
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Pin To Net: NetName=GND Pin=P1-17
+Added Pin To Net: NetName=GND Pin=P1-18
+Added Pin To Net: NetName=GND Pin=P1-19
+Added Pin To Net: NetName=GND Pin=P1-20
+Added Pin To Net: NetName=GND Pin=Q1-S
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=GND Pin=Q5-S
+Added Pin To Net: NetName=GND Pin=Q6-S
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=Headlights- Pin=*1-3
+Added Pin To Net: NetName=Headlights- Pin=Q4-D
+Added Net: Name=Headlights-
+Added Pin To Net: NetName=Headlights_out Pin=IC1-57
+Added Pin To Net: NetName=Headlights_out Pin=Q4-G
+Added Net: Name=Headlights_out
+Added Pin To Net: NetName=Horn- Pin=*1-6
+Added Pin To Net: NetName=Horn- Pin=Q6-D
+Added Net: Name=Horn-
+Added Pin To Net: NetName=Horn_Out Pin=IC1-56
+Added Pin To Net: NetName=Horn_Out Pin=Q6-G
+Added Net: Name=Horn_Out
+Added Pin To Net: NetName=LT- Pin=*1-1
+Added Pin To Net: NetName=LT- Pin=Q3-D
+Added Net: Name=LT-
+Added Pin To Net: NetName=LT_out Pin=IC1-51
+Added Pin To Net: NetName=LT_out Pin=Q3-G
+Added Net: Name=LT_out
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_1 Pin=VR1-2
+Added Net: Name=NetIC2_1
+Added Pin To Net: NetName=NRST_pgm15 Pin=IC1-7
+Added Pin To Net: NetName=NRST_pgm15 Pin=P1-8
+Added Net: Name=NRST_pgm15
+Added Pin To Net: NetName=Reverse- Pin=*1-4
+Added Pin To Net: NetName=Reverse- Pin=Q1-D
+Added Net: Name=Reverse-
+Added Pin To Net: NetName=Reverse_out Pin=IC1-55
+Added Pin To Net: NetName=Reverse_out Pin=Q1-G
+Added Net: Name=Reverse_out
+Added Pin To Net: NetName=RT- Pin=*1-2
+Added Pin To Net: NetName=RT- Pin=Q2-D
+Added Net: Name=RT-
+Added Pin To Net: NetName=RT_out Pin=IC1-52
+Added Pin To Net: NetName=RT_out Pin=Q2-G
+Added Net: Name=RT_out
+Added Pin To Net: NetName=Rx Pin=IC1-44
+Added Pin To Net: NetName=Rx Pin=U1-7
+Added Net: Name=Rx
+Added Pin To Net: NetName=SWCLK_pgm9 Pin=IC1-49
+Added Pin To Net: NetName=SWCLK_pgm9 Pin=P1-5
+Added Net: Name=SWCLK_pgm9
+Added Pin To Net: NetName=SWDIO_pgm7 Pin=IC1-46
+Added Pin To Net: NetName=SWDIO_pgm7 Pin=P1-4
+Added Net: Name=SWDIO_pgm7
+Added Pin To Net: NetName=Tx Pin=IC1-45
+Added Pin To Net: NetName=Tx Pin=U1-1
+Added Net: Name=Tx
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component *1 9-Pin Connector
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component *2 9-Pin Connector
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component H1 Hole 125mil
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component H2 Hole 125mil
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component H3 Hole 125mil
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component H4 Hole 125mil
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component IC1 STM32F072RBT6
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component IC2 LM397MF_NOPB
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component P1 Programmer Header
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component Q1 13N06L
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component Q2 13N06L
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component Q3 13N06L
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component Q4 13N06L
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component Q5 13N06L
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component Q6 13N06L
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component R1 Res1
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component U1 TCAN1042HV
+Added Member To Class: ClassName=Aux_Lights_Daughter_REV2 Member=Component VR1 P160KN-0QC17B10K
+Added Room: Name=Aux_Lights_Daughter_REV2
